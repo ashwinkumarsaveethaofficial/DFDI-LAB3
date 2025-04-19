@@ -115,7 +115,7 @@ Add a disk image or file to the case and analyze the contents such as deleted fi
 
 
 
-RESULT:
+## RESULT:
 The Autopsy software is successfully installed on windows operating system and 
 analysed disk, files and folder configurations .
 
