@@ -31,10 +31,10 @@ Add a disk image or file to the case and analyze the contents such as deleted fi
 
 ### Step2:Installation Process
   •	Launch Autopsy if it correctly works. 
-  ![image](https://github.com/user-attachments/assets/8e82fb48-ae4f-49be-bec6-231d76cde77b)
+![Screenshot (163)](https://github.com/user-attachments/assets/ecd94a00-aec6-49cd-ae99-374181d47f39)
 
   •	Choose Directory
-  ![image](https://github.com/user-attachments/assets/cce32482-0eca-4a66-982c-63e4b3e1f118)
+  ![Screenshot (164)](https://github.com/user-attachments/assets/c7686c1e-08e1-451c-8968-c34ddde5d8b2)
 
   •	Give Install
   ![image](https://github.com/user-attachments/assets/333f1109-b42c-4639-aec6-e616384433cc)
