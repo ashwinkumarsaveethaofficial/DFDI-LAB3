@@ -48,7 +48,7 @@ Add a disk image or file to the case and analyze the contents such as deleted fi
 ## CREATING A DISK PARTITION:
 ### Step1: Open File Manager
   ●	Right-click This PC → Click Show More Options.
-  ![Screenshot 2025-03-19 220523](https://github.com/user-attachments/assets/8a7b99d9-bd5d-4b41-ad35-6d1301b5ff82)
+   ![Screenshot 2025-03-19 220523](https://github.com/user-attachments/assets/8a7b99d9-bd5d-4b41-ad35-6d1301b5ff82)
 
   ●	Select Manage.
    ![Screenshot 2025-03-19 220537](https://github.com/user-attachments/assets/df827a18-3894-4dbd-bbd3-a1b6eb8ae0b8)
