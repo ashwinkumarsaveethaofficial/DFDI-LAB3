@@ -8,8 +8,8 @@ and folder configuration.
   ●	Hardware: Personal Computer (PC)
 
 ```
-Register Number:212222040121
-Name: Praveen V
+Register Number:212222040020
+Name: Ashwinkumar S
 ```
 
 ## DESIGN STEPS:
@@ -37,13 +37,13 @@ Add a disk image or file to the case and analyze the contents such as deleted fi
   ![Screenshot (164)](https://github.com/user-attachments/assets/c7686c1e-08e1-451c-8968-c34ddde5d8b2)
 
   •	Give Install
-  ![image](https://github.com/user-attachments/assets/333f1109-b42c-4639-aec6-e616384433cc)
+  ![Screenshot (165)](https://github.com/user-attachments/assets/adaa80eb-e547-48f9-8b0b-4615580d4b6d)
+  ![Screenshot (166)](https://github.com/user-attachments/assets/02f5e31d-04e7-4128-852d-a8b07ebb458e)
 
   •	Successfully installed
-  ![image](https://github.com/user-attachments/assets/ce67088d-43bb-4a9f-b467-c3e8d325eec1)
-
+  ![Screenshot (168)](https://github.com/user-attachments/assets/9f872b0c-c0a2-4e8b-8a37-a6c05e2900ca)
   •	Autopsy Interface
-  ![image](https://github.com/user-attachments/assets/eea203a8-9052-4970-bf73-462cfc76d12f)
+  ![Screenshot (169)](https://github.com/user-attachments/assets/9c549a9a-531b-42e7-83b9-d6a276c280d3)
 
 ## CREATING A DISK PARTITION:
 ### Step1: Open File Manager
